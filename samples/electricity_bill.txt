@@ -1,0 +1,39 @@
+CITY POWER & LIGHT
+Electric Utility Company
+123 Main Street, Anytown, USA
+
+INVOICE
+
+Account Number: 987654321
+Invoice Date: June 15, 2024
+Due Date: July 5, 2024
+Billing Period: May 15 - June 14, 2024
+
+Customer Information:
+ABC Corporation
+456 Business Park Drive
+Anytown, USA 12345
+
+USAGE SUMMARY
+-----------------------------------
+Previous Reading:     45,230 kWh
+Current Reading:      45,530 kWh
+Total Usage:             300 kWh
+
+CHARGES
+-----------------------------------
+Energy Charge (300 kWh @ $0.12)      $36.00
+Distribution Charge                    $8.50
+Renewable Energy Surcharge            $2.50
+Taxes and Fees                        $3.00
+-----------------------------------
+TOTAL AMOUNT DUE:                    $50.00
+
+Payment Methods:
+- Online: www.citypowerlight.com
+- Phone: 1-800-555-POWER
+- Mail: PO Box 12345, Anytown, USA
+
+Thank you for your business!
+
+For questions, contact us at billing@citypowerlight.com

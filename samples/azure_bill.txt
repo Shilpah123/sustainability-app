@@ -1,0 +1,155 @@
+Microsoft Azure
+Cloud Services Invoice
+
+Invoice ID: AZURE-2024-06-789012
+Subscription ID: a1b2c3d4-e5f6-7890-abcd-ef1234567890
+Billing Period: June 1 - June 30, 2024
+Invoice Date: June 30, 2024
+
+Bill To:
+ABC Corporation
+456 Business Park Drive
+Anytown, USA 12345
+Tax ID: 12-3456789
+
+=====================================
+USAGE DETAILS
+=====================================
+
+Virtual Machines
+-----------------------------------
+Standard_D2s_v3 (2 vCPUs, 8 GB RAM)
+Hours: 720
+Rate: $0.096/hour
+Total: $69.12
+
+Standard_B2ms (2 vCPUs, 8 GB RAM)
+Hours: 360
+Rate: $0.0832/hour
+Total: $29.95
+
+Storage Accounts
+-----------------------------------
+Premium SSD: 256 GB
+Rate: $0.135/GB
+Total: $34.56
+
+Standard HDD: 1,024 GB
+Rate: $0.01/GB
+Total: $10.24
+
+Blob Storage (Hot Tier): 750 GB
+Rate: $0.018/GB
+Total: $13.50
+
+Azure SQL Database
+-----------------------------------
+Standard S3 (100 DTUs)
+Days: 30
+Rate: $4.20/day
+Total: $126.00
+
+Database Storage: 250 GB
+Rate: $0.115/GB
+Total: $28.75
+
+Azure App Service
+-----------------------------------
+Basic B1 (1 Core, 1.75 GB RAM)
+Hours: 720
+Rate: $0.075/hour
+Total: $54.00
+
+Premium P1v2
+Hours: 360
+Rate: $0.20/hour
+Total: $72.00
+
+Azure Functions
+-----------------------------------
+Execution Count: 3,500,000
+Rate: $0.20 per million
+Total: $0.70
+
+Execution Duration: 800,000 GB-s
+Rate: $0.000016/GB-s
+Total: $12.80
+
+Azure Kubernetes Service (AKS)
+-----------------------------------
+Cluster Management: FREE
+Node Pool (Standard_D2s_v3 x 3)
+Hours: 2,160 (720 x 3 nodes)
+Rate: $0.096/hour
+Total: $207.36
+
+Bandwidth
+-----------------------------------
+Data Transfer OUT: 180 GB
+Zone 1 Rate: $0.087/GB
+Total: $15.66
+
+Azure Monitor
+-----------------------------------
+Log Analytics Ingestion: 50 GB
+Rate: $2.76/GB
+Total: $138.00
+
+Application Insights: Included
+
+Backup & Disaster Recovery
+-----------------------------------
+Azure Backup Storage: 200 GB
+Rate: $0.10/GB
+Total: $20.00
+
+=====================================
+BILLING SUMMARY
+=====================================
+
+Virtual Machines:                $99.07
+Storage:                         $58.30
+SQL Database:                   $154.75
+App Services:                   $126.00
+Functions:                       $13.50
+Kubernetes:                     $207.36
+Bandwidth:                       $15.66
+Monitoring:                     $138.00
+Backup:                          $20.00
+-----------------------------------
+Subtotal:                       $832.64
+Azure Support (Basic):            $0.00
+Tax (8.5%):                      $70.77
+-----------------------------------
+TOTAL:                          $903.41
+
+Payment Method: Auto-pay (Credit Card)
+Card: Visa ending in 4321
+Payment Date: July 5, 2024
+
+=====================================
+SUSTAINABILITY INSIGHTS
+=====================================
+
+Your Carbon Footprint: ~52.8 kg CO2e
+Monthly Trend: -8% (improvement!)
+
+Datacenter Region: East US
+Carbon Intensity: 0.385 kg CO2e/kWh
+Renewable Energy: 60%
+
+Recommendations:
+• Consider Azure Reserved VM Instances (save 40-72%)
+• Move to West US 2 datacenter (75% renewable energy)
+• Enable VM auto-shutdown for dev/test
+• Use Azure Advisor for optimization tips
+
+View detailed sustainability dashboard:
+https://portal.azure.com/#blade/Microsoft_Azure_Carbon
+
+=====================================
+
+Need help? Contact Azure Support
+https://azure.microsoft.com/support/
+
+Thank you for choosing Microsoft Azure!

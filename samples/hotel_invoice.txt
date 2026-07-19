@@ -1,0 +1,53 @@
+GRAND PLAZA HOTEL
+A LUXURY BUSINESS HOTEL
+500 Executive Boulevard, Business District
+Tel: +1 (555) 999-8888
+Email: reservations@grandplazahotel.com
+
+TAX INVOICE
+
+Invoice Number: INV-2024-06-789
+Date: June 20, 2024
+
+Guest Information:
+Name: John Smith
+Company: ABC Corporation
+Address: 456 Business Park Drive
+         Anytown, USA 12345
+
+Reservation Details:
+Confirmation #: GPH20240615
+Check-in: June 15, 2024 (15:00)
+Check-out: June 18, 2024 (11:00)
+Number of Nights: 3
+Room Type: Executive Suite
+Room Number: 1205
+
+CHARGES
+========================================
+Room Rate (3 nights @ $180/night)     $540.00
+Business Center Services                $25.00
+Internet Access (3 days @ $10/day)      $30.00
+Breakfast (3 days @ $22/day)            $66.00
+Parking (3 days @ $15/day)              $45.00
+----------------------------------------
+Subtotal:                              $706.00
+Service Charge (10%):                   $70.60
+City Tax (12%):                         $84.72
+Tourism Levy:                           $10.00
+----------------------------------------
+TOTAL AMOUNT:                          $871.32
+
+Payment Method: Corporate Credit Card
+Card: Visa **** **** **** 9876
+Transaction Date: June 18, 2024
+
+Carbon Footprint Estimate:
+Your 3-night stay: ~31.5 kg CO2e
+(We are committed to sustainability!)
+
+Thank you for choosing Grand Plaza Hotel!
+We hope to see you again soon.
+
+For questions about this invoice:
+accounting@grandplazahotel.com

@@ -1,0 +1,184 @@
+# Sample Chatbot Queries for Testing
+
+## Basic Questions
+
+1. What are our total emissions?
+2. Show me our carbon footprint
+3. How much CO2 did we emit this month?
+4. What is our biggest source of emissions?
+
+## Trend Analysis
+
+5. Why did emissions increase in June?
+6. What caused the spike last month?
+7. Are our emissions trending up or down?
+8. Compare this month to last month
+9. Show me year-over-year trends
+10. What's our emission trajectory?
+
+## Category Questions
+
+11. Which department has the highest emissions?
+12. How much do we emit from business travel?
+13. What are our Scope 3 emissions?
+14. Show me electricity usage
+15. What about our cloud computing emissions?
+16. How much fuel do we consume?
+
+## Reduction Strategies
+
+17. Suggest ways to reduce emissions
+18. What are some quick wins?
+19. How can we lower our carbon footprint?
+20. What should we prioritize?
+21. Give me actionable recommendations
+22. What's the fastest way to reduce emissions?
+
+## What-If Scenarios
+
+23. What if 50% of travel becomes virtual?
+24. What if we switch to renewable energy?
+25. What happens if we reduce cloud usage by 30%?
+26. What if we implement a 4-day work week?
+27. What if all employees work from home 2 days per week?
+28. What if we upgrade to electric vehicles?
+29. What if we optimize our data centers?
+30. What if we switch to LED lighting?
+
+## Comparative Questions
+
+31. How do we compare to industry average?
+32. Which scope has the highest emissions?
+33. Is Scope 2 or Scope 3 higher?
+34. Compare travel vs electricity emissions
+35. What's worse: flights or cloud computing?
+
+## Detailed Analysis
+
+36. Break down emissions by category
+37. Show me emissions by department
+38. What's driving our carbon footprint?
+39. Analyze our travel patterns
+40. Why is electricity usage so high?
+41. What's the root cause of increased emissions?
+
+## Goal Setting
+
+42. Can we reach net zero by 2030?
+43. What would it take to reduce emissions by 25%?
+44. How do we get to carbon neutral?
+45. What's needed for 50% reduction?
+
+## Cost Questions
+
+46. What's the ROI on renewable energy?
+47. How much would switching save us?
+48. What's the cheapest way to reduce emissions?
+49. Compare cost vs impact of recommendations
+
+## Data Questions
+
+50. When was our last data upload?
+51. How many documents have we processed?
+52. What types of emissions are we tracking?
+53. How accurate are these calculations?
+
+## Implementation Questions
+
+54. How do I implement these recommendations?
+55. What are the prerequisites for switching to solar?
+56. How long will optimization take?
+57. What's the implementation roadmap?
+
+## Compliance & Reporting
+
+58. Are we compliant with GHG Protocol?
+59. Generate a carbon report
+60. What should we report to stakeholders?
+61. Show me our ESG metrics
+
+## Industry-Specific
+
+62. What's typical for our industry?
+63. Are we above or below average?
+64. What are best practices for tech companies?
+65. How do other companies reduce emissions?
+
+## Actionable Next Steps
+
+66. What should we do first?
+67. Give me a 30-60-90 day plan
+68. What can we do right now?
+69. What's the action plan?
+70. Prioritize by quick wins
+
+## Testing Different Tones
+
+71. In simple terms, what's our carbon footprint?
+72. Explain like I'm 5: why should we care about emissions?
+73. Give me the executive summary
+74. Detailed technical analysis of our emissions
+75. Brief bullet points of our status
+
+## Edge Cases
+
+76. What if we do nothing?
+77. Worst case scenario?
+78. Best case scenario?
+79. What's the maximum possible reduction?
+80. What if regulations change?
+
+## Follow-up Questions
+
+81. Tell me more about that
+82. Explain further
+83. What else?
+84. Any other suggestions?
+85. What did you mean by that?
+
+## Complex Multi-Part Questions
+
+86. What are our top 3 emission sources and how can we reduce them?
+87. Compare our Scope 1, 2, and 3 emissions and suggest the best reduction strategy for each
+88. If we implement the top 5 recommendations, what would be our new emission level?
+89. Show me trends, identify the problem, and suggest solutions
+90. What's our carbon footprint, how does it compare, and what should we do?
+
+## Scenario Combinations
+
+91. What if we reduce travel by 30% AND switch to renewable energy?
+92. Combine virtual meetings with cloud optimization - what's the total impact?
+93. If we do all quick wins simultaneously, what happens?
+
+## Proactive Questions
+
+94. Alert me if emissions increase by 10%
+95. What should we watch out for?
+96. Any red flags in our data?
+97. What are we missing?
+
+## Benchmarking
+
+98. How do we rank among similar companies?
+99. What's the industry standard?
+100. Are we leaders or laggards in sustainability?
+
+## Usage Tips
+
+- Start with simple questions (1-10) to warm up
+- Test trend analysis (11-20) after uploading sample data
+- Try scenario questions (23-30) on the Scenarios page
+- Use complex questions (86-90) to test the AI's reasoning
+- Follow up questions (81-85) test conversation context
+- Edge cases (76-80) test the system's boundaries
+
+## Expected Behavior
+
+The chatbot should:
+✓ Answer naturally in conversational tone
+✓ Provide specific numbers when available
+✓ Offer insights beyond just data
+✓ Suggest actionable next steps
+✓ Maintain context across follow-ups
+✓ Admit when it doesn't have enough data
+✓ Redirect to appropriate features when needed

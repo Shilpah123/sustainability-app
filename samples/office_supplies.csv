@@ -1,0 +1,19 @@
+Date,Vendor,Invoice_Number,Item_Description,Category,Quantity,Unit_Price,Total_Amount,Currency,Department
+2024-06-01,Office Depot,OD-123456,Copy Paper (500 sheets),Paper,50,12.99,649.50,USD,Marketing
+2024-06-01,Office Depot,OD-123456,Blue Pens (Pack of 12),Office Supplies,20,8.99,179.80,USD,Marketing
+2024-06-02,Staples,ST-789012,Toner Cartridges,Printer Supplies,10,89.99,899.90,USD,IT
+2024-06-03,Amazon Business,AMZ-345678,USB Flash Drives (32GB),Electronics,25,15.99,399.75,USD,IT
+2024-06-05,Office Max,OM-901234,Desk Chairs (Ergonomic),Furniture,8,249.99,1999.92,USD,HR
+2024-06-07,Staples,ST-567890,Sticky Notes (Pack of 24),Office Supplies,30,4.99,149.70,USD,All Departments
+2024-06-10,Office Depot,OD-234567,File Folders (Box of 100),Filing,15,18.99,284.85,USD,Administration
+2024-06-12,Amazon Business,AMZ-456789,Wireless Mouse,Electronics,40,22.99,919.60,USD,All Departments
+2024-06-14,Staples,ST-678901,Standing Desks,Furniture,5,599.99,2999.95,USD,Engineering
+2024-06-15,Office Max,OM-012345,Whiteboards (4x6 ft),Presentation,6,179.99,1079.94,USD,Conference Rooms
+2024-06-18,Office Depot,OD-345678,Notebooks (100 sheets),Paper,100,3.99,399.00,USD,All Departments
+2024-06-20,Staples,ST-789012,Laptop Stands,Accessories,15,34.99,524.85,USD,Engineering
+2024-06-22,Amazon Business,AMZ-567890,HDMI Cables,Electronics,30,12.99,389.70,USD,IT
+2024-06-24,Office Max,OM-123456,Desk Lamps (LED),Furniture,20,45.99,919.80,USD,All Departments
+2024-06-26,Office Depot,OD-456789,Printer Paper (Ream),Paper,80,7.99,639.20,USD,All Departments
+2024-06-28,Staples,ST-890123,Binders (3-inch),Filing,50,6.99,349.50,USD,Administration
+2024-06-29,Amazon Business,AMZ-678901,Webcams (1080p),Electronics,12,69.99,839.88,USD,IT
+2024-06-30,Office Max,OM-234567,Coffee Machine,Appliances,2,299.99,599.98,USD,Break Room

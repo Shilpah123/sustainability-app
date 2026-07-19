@@ -1,0 +1,41 @@
+QUICKSTOP FUEL STATION
+789 Highway Road
+Anytown, USA 12345
+Phone: (555) 123-4567
+
+FUEL RECEIPT
+==============================
+
+Date: June 18, 2024
+Time: 14:35:22
+Transaction #: FU20240618-1435
+
+Vehicle: Company Fleet #42
+
+FUEL TYPE: UNLEADED REGULAR (87)
+PUMP: 03
+PRICE PER LITER: $1.45
+
+VOLUME: 40.00 Liters
+SUBTOTAL: $58.00
+TAX (8%): $4.64
+-------------------------------
+TOTAL: $62.64
+
+PAYMENT METHOD: Fleet Card
+CARD: **** **** **** 5678
+
+Odometer Reading: 45,892 km
+Driver ID: EMP-12345
+
+EARN REWARDS POINTS!
+Visit www.quickstopfuel.com
+
+KEEP FOR YOUR RECORDS
+
+Thank you for choosing QuickStop!
+Have a safe journey!
+
+Environmental Note:
+This purchase resulted in approximately
+92.4 kg of CO2 emissions.

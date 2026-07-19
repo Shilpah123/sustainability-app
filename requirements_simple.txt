@@ -1,0 +1,23 @@
+# Simplified dependencies - no LangChain, no LLM
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Document Processing (optional OCR)
+PyPDF2==3.0.1
+pdfplumber==0.11.0
+pillow==10.2.0
+python-multipart==0.0.9
+openpyxl==3.1.2
+
+# Simple database (SQLite - no PostgreSQL needed)
+sqlalchemy==2.0.27
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2

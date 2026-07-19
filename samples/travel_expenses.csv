@@ -1,0 +1,16 @@
+Date,Employee,Description,Category,Origin,Destination,Distance_km,Mode,Amount_USD,Currency,Receipt_Number
+2024-06-15,John Smith,Flight to Boston,Air Travel,New York,Boston,380,Flight,245.00,USD,FLT-20240615-001
+2024-06-15,John Smith,Taxi to Airport,Ground Transport,Office,JFK Airport,45,Taxi,65.00,USD,TXI-20240615-002
+2024-06-16,Sarah Johnson,Train to Philadelphia,Rail,New York,Philadelphia,150,Train,85.00,USD,TRN-20240616-003
+2024-06-17,Mike Chen,Flight to Chicago,Air Travel,New York,Chicago,1150,Flight,385.00,USD,FLT-20240617-004
+2024-06-17,Mike Chen,Rental Car,Ground Transport,Chicago,Chicago,120,Car Rental,95.00,USD,CAR-20240617-005
+2024-06-18,Emily Davis,Flight to San Francisco,Air Travel,New York,San Francisco,4140,Flight,525.00,USD,FLT-20240618-006
+2024-06-18,Emily Davis,Hotel Accommodation,Lodging,San Francisco,San Francisco,0,Hotel,450.00,USD,HTL-20240618-007
+2024-06-19,Robert Wilson,Bus to Washington DC,Ground Transport,New York,Washington DC,360,Bus,45.00,USD,BUS-20240619-008
+2024-06-20,Lisa Anderson,Flight to Miami,Air Travel,New York,Miami,1760,Flight,295.00,USD,FLT-20240620-009
+2024-06-20,Lisa Anderson,Uber to Client Office,Ground Transport,Miami Airport,Client Office,25,Uber,35.00,USD,UBR-20240620-010
+2024-06-21,David Brown,Flight to Seattle,Air Travel,New York,Seattle,3900,Flight,485.00,USD,FLT-20240621-011
+2024-06-21,David Brown,Hotel Stay - 2 nights,Lodging,Seattle,Seattle,0,Hotel,340.00,USD,HTL-20240621-012
+2024-06-22,Jennifer Lee,Train to Baltimore,Rail,Washington DC,Baltimore,65,Train,28.00,USD,TRN-20240622-013
+2024-06-23,Tom Martinez,Flight to Denver,Air Travel,New York,Denver,2620,Flight,365.00,USD,FLT-20240623-014
+2024-06-23,Tom Martinez,Car Service,Ground Transport,Denver Airport,Hotel,32,Car Service,55.00,USD,CAR-20240623-015

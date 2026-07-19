@@ -1,0 +1,121 @@
+Amazon Web Services Invoice
+
+Invoice Number: AWS-2024-06-123456
+Account ID: 123456789012
+Invoice Date: June 30, 2024
+Billing Period: June 1 - June 30, 2024
+
+Company: ABC Corporation
+Address: 456 Business Park Drive
+         Anytown, USA 12345
+Email: billing@abccorp.com
+
+=====================================
+SERVICE USAGE SUMMARY
+=====================================
+
+Amazon EC2 (Elastic Compute Cloud)
+-----------------------------------
+Instance Type: t3.medium
+Total Hours: 720 hours
+Rate: $0.0416/hour
+Subtotal: $29.95
+
+Instance Type: m5.large
+Total Hours: 360 hours
+Rate: $0.096/hour
+Subtotal: $34.56
+
+Instance Type: c5.xlarge
+Total Hours: 180 hours
+Rate: $0.17/hour
+Subtotal: $30.60
+
+Amazon S3 (Simple Storage Service)
+-----------------------------------
+Standard Storage: 500 GB
+Rate: $0.023/GB
+Subtotal: $11.50
+
+Data Transfer OUT: 200 GB
+Rate: $0.09/GB
+Subtotal: $18.00
+
+Amazon RDS (Relational Database)
+-----------------------------------
+db.t3.medium: 720 hours
+Rate: $0.068/hour
+Subtotal: $48.96
+
+Storage: 100 GB
+Rate: $0.115/GB
+Subtotal: $11.50
+
+Amazon CloudFront (CDN)
+-----------------------------------
+Data Transfer: 150 GB
+Rate: $0.085/GB
+Subtotal: $12.75
+
+Amazon Lambda
+-----------------------------------
+Requests: 2,000,000
+Rate: $0.20 per 1M requests
+Subtotal: $0.40
+
+Compute Time: 500,000 GB-seconds
+Rate: $0.0000166667/GB-second
+Subtotal: $8.33
+
+Amazon VPC (Virtual Private Cloud)
+-----------------------------------
+NAT Gateway Hours: 720
+Rate: $0.045/hour
+Subtotal: $32.40
+
+Data Processing: 50 GB
+Rate: $0.045/GB
+Subtotal: $2.25
+
+=====================================
+CHARGES SUMMARY
+=====================================
+
+EC2 Compute:                     $95.11
+S3 Storage & Transfer:           $29.50
+RDS Database:                    $60.46
+CloudFront CDN:                  $12.75
+Lambda Serverless:                $8.73
+VPC Networking:                  $34.65
+-----------------------------------
+Subtotal:                       $241.20
+Tax (8%):                        $19.30
+-----------------------------------
+TOTAL AMOUNT DUE:               $260.50
+
+Payment Method: Credit Card (**** 5678)
+Auto-Payment: Enabled
+
+=====================================
+CARBON FOOTPRINT ESTIMATE
+=====================================
+
+Estimated CO2e for this period: ~23.2 kg
+(Based on AWS sustainability calculator)
+
+Region: US-EAST-1 (Virginia)
+Renewable Energy %: 50%
+
+To reduce your carbon footprint:
+- Use AWS Graviton processors (40% more efficient)
+- Enable EC2 Auto Scaling
+- Use S3 Intelligent-Tiering
+- Consider Reserved Instances for predictable workloads
+
+=====================================
+
+Questions? Visit: https://aws.amazon.com/support
+Download detailed usage report:
+https://console.aws.amazon.com/billing
+
+Thank you for using Amazon Web Services!

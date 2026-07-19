@@ -1,0 +1,16 @@
+Booking_Date,Passenger_Name,Flight_Number,Airline,Origin,Destination,Departure_Date,Departure_Time,Arrival_Time,Distance_km,Class,Fare_USD,Booking_Reference
+2024-06-01,John Smith,AA1234,American Airlines,New York JFK,Los Angeles LAX,2024-06-15,08:00,11:30,3940,Economy,425.00,AA1234JS
+2024-06-02,Sarah Johnson,UA5678,United Airlines,New York EWR,Chicago ORD,2024-06-16,14:00,15:30,1140,Economy,285.00,UA5678SJ
+2024-06-03,Mike Chen,DL9012,Delta Airlines,New York LGA,Atlanta ATL,2024-06-17,06:30,09:00,1210,Business,685.00,DL9012MC
+2024-06-04,Emily Davis,AA3456,American Airlines,New York JFK,San Francisco SFO,2024-06-18,10:00,13:30,4140,Economy,465.00,AA3456ED
+2024-06-05,Robert Wilson,UA7890,United Airlines,New York EWR,Houston IAH,2024-06-19,16:00,19:30,2280,Economy,385.00,UA7890RW
+2024-06-06,Lisa Anderson,DL2345,Delta Airlines,New York JFK,Miami MIA,2024-06-20,12:00,15:00,1760,Economy,325.00,DL2345LA
+2024-06-07,David Brown,AA6789,American Airlines,New York LGA,Seattle SEA,2024-06-21,07:00,10:30,3900,Business,785.00,AA6789DB
+2024-06-08,Jennifer Lee,UA0123,United Airlines,New York EWR,Denver DEN,2024-06-22,09:00,11:30,2620,Economy,355.00,UA0123JL
+2024-06-09,Tom Martinez,DL4567,Delta Airlines,New York JFK,Phoenix PHX,2024-06-23,15:00,18:00,3470,Economy,395.00,DL4567TM
+2024-06-10,Anna Garcia,AA8901,American Airlines,New York LGA,Dallas DFW,2024-06-24,11:00,14:00,2240,Economy,315.00,AA8901AG
+2024-06-11,Chris Taylor,UA2468,United Airlines,New York EWR,San Diego SAN,2024-06-25,08:30,11:30,3920,Economy,455.00,UA2468CT
+2024-06-12,Maria Rodriguez,DL1357,Delta Airlines,New York JFK,Las Vegas LAS,2024-06-26,13:00,16:00,3600,Economy,375.00,DL1357MR
+2024-06-13,James Wilson,AA9753,American Airlines,New York LGA,Portland PDX,2024-06-27,10:00,13:00,3920,Business,825.00,AA9753JW
+2024-06-14,Patricia Moore,UA8642,United Airlines,New York EWR,Austin AUS,2024-06-28,14:30,17:30,2510,Economy,365.00,UA8642PM
+2024-06-15,Michael Taylor,DL7531,Delta Airlines,New York JFK,Boston BOS,2024-06-29,07:30,08:45,305,Economy,185.00,DL7531MT
